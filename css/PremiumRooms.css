@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+#Premium{
+    text-align: center;
+    height: 150px;
+    padding-top: 100px;
+    font-size: 35px;
+}
+#Premium1{
+    font-size: 20px;
+    margin-top: 20px;
+    font-weight: 700;
+}
+#Premium2{
+    font-size: 20px;
+    font-weight: 700;
+}
+#Premium3{
+    font-size: 20px;
+    font-weight: 700;
+}
+#Premium4{
+    font-size: 20px;
+    font-weight: 700;
+}

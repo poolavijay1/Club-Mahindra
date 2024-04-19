@@ -1,0 +1,182 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+#Hotel{
+    margin-right:400px;
+    margin-bottom: 100px;
+    margin-left: -70px;
+    text-align: start;
+}
+#Hotel1{
+    font-size: 60px;
+}
+#Hotel2{
+    font-size: 20px;
+    font-weight: 700;
+}
+#AshtamudiCafe{
+    margin-right: 400px;
+    margin-bottom: 100px;
+    margin-left: -70px;
+    text-align: start;
+}
+#AshtamudiCafe1{
+    font-size: 60px;
+}
+#AshtamudiCafe2{
+    font-size: 20px;
+    font-weight: 700;
+}
+#Kathakali{
+    margin-right: 400px;
+    margin-bottom: 100px;
+    margin-left: -70px;
+    text-align: start;
+}
+#Kathakali1{
+    font-size: 60px;
+}
+#Kathakali2{
+    font-size: 20px;
+    font-weight: 700;
+}
+#vijay{
+    position: absolute;
+    margin-top: -335px;
+    margin-left: 770px;
+    margin-bottom: 50px;
+    opacity: 0.7;
+}
+#vijay1{
+    margin-top: 150px;
+    margin-left: 150px;
+    font-weight: 900;
+    
+}
+#vijay2{
+    margin-top: 150px;
+    margin-left: 750px;
+    font-weight: 700;
+
+}
+
+
+
+  .bg-background-color{
+    background-color: rgb(241, 236, 236);
+  }
+
+
+  .d-flexs{
+    display: flex;
+  }
+
+  .bg-white{
+    background-color: white;
+    margin-left: 10px;
+    height: 250px;
+    width: 300px;
+  }
+
+  .img-width{
+    width: 100px;
+    margin-left: 85px;
+    padding-top: 30px;
+  }
+
+
+  .text-sizes{
+    font-size: 30px;
+    padding-left: 100px;
+    font-weight: bold;
+    color: orangered;
+  }
+
+  
+  .text-sizess{
+    font-size: 20px;
+    padding-left: 80px;
+    font-weight:400px;
+  }
+
+
+  .last-head{
+    font-size: 40px;
+    font-weight: bold;
+    padding-left: 40px;
+   
+    
+   
+  }
+
+  .margin-topss{
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+
+  #loremss{
+    margin-left: 150px;
+  }
+
+  .img-size{
+    width: 100px;
+    margin-left: 50px;
+  }
+
+
+  .wrapper{
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: black;
+    width:50% ;
+    height: 550px;
+  
+  }
+  .parent{
+    width: 100%;
+    padding: 20px;
+    height: 550px;
+    cursor: pointer;
+  
+  }
+
+
+
+  .wrapperv{
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 5px;
+    background-color: black;
+    width:30% ;
+    height: 550px;
+  
+  }
+  .parenti{
+    width: 100%;
+    padding: 20px;
+    height: 450px;
+    cursor: pointer;
+    
+  }
+  .childj{
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    transition: all 1.1s;
+    
+  }
+  
+  .bg-onea{
+    background-image: url(/assets/uploads/image/iPhone13.avif);
+    height: 500px;
+    
+  }
+  .parenti:hover .childj{
+    transform: scale(1.1);
+  }
+ 
